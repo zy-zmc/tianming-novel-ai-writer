@@ -3,7 +3,8 @@
 请查看介绍中的【重点缺失】部分（因为旧版源码我都删除了，懒得重新下载修复在上传了）
 ## 交流群（天命群解散了，目前只有天衍新群：1109118979）
 点击链接加入群聊【天衍 - BUG收集】：https://qm.qq.com/q/JTd9adGY4o
-<img width="307" height="370" alt="9c9d2e74-f1db-4e54-ac89-fbf794c750f9" src="https://github.com/user-attachments/assets/e8230576-64f2-4b0c-9685-14f9a9337c11" />
+
+ <img width="307" height="370" alt="9c9d2e74-f1db-4e54-ac89-fbf794c750f9" src="https://github.com/user-attachments/assets/e8230576-64f2-4b0c-9685-14f9a9337c11" />
 
 
 ## 视频教程
